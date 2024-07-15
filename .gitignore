@@ -76,6 +76,7 @@ _deps
 
 # binaries
 http
+http_no_std
 allocatin-memory
 hashtable
 reading_files
